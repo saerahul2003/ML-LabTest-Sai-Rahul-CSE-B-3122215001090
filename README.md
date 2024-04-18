@@ -1,1 +1,3 @@
 # ML-LabTest-Sai-Rahul-CSE-B-3122215001090
+
+This Python program predicts the purchasing intention of online shoppers using various classification models (LR, PLA, MLP, KNN, SVM, Naïve Bayes) on the Online Shoppers Purchasing Intention Dataset. The dataset consists of feature vectors from 12,330 sessions, each belonging to a different user within a 1-year period to avoid bias. The implementation includes steps for data loading, pre-processing (encoding, standardization, normalization, handling missing values, and noise), exploratory data analysis, feature engineering, data splitting into training, testing, and validation sets, model training and testing, performance measurement using ROC curves, and clustering without considering the class label.
